@@ -1,4 +1,3 @@
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/66ca6292-a8d0-40fd-8193-5279be9f2a74"># EX.-NO-2-B-IMPLEMENTATION-OF-RSA
 
 ## AIM:
   To write a C program to implement the RSA encryption algorithm.
