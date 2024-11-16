@@ -1,4 +1,4 @@
-
+# EX.-NO-2-B-IMPLEMENTATION-OF-RSA
 ## AIM:
   To write a C program to implement the RSA encryption algorithm.
   
@@ -72,7 +72,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-<img width="955" alt="Ex 8" src="https://github.com/user-attachments/assets/c1a7c106-23e4-43fe-a986-057be18833d2">
+![image](https://github.com/user-attachments/assets/1c586860-1fc0-475e-ae2f-7832445dcf0d)
+
 
 ## RESULT:
   Thus the C program to implement RSA encryption technique had been implemented successfully
